@@ -1,0 +1,17 @@
+{
+  "name": "Hackerhank",
+  "description": "Access Hackerhank",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.hackerrank.com"
+    ],
+    "launch": {
+      "web_url":"https://www.hackerrank.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

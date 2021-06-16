@@ -1,0 +1,17 @@
+{
+  "name": "Pragmatic Studio",
+  "description": "Access PragmaticStudio",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://pragmaticstudio.com/"
+    ],
+    "launch": {
+      "web_url": "https://pragmaticstudio.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

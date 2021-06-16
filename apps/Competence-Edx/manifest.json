@@ -1,0 +1,17 @@
+{
+  "name": "edX",
+  "description": "Access edX",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.edx.org/"
+    ],
+    "launch": {
+      "web_url": "https://www.edx.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pragmatic Bookshelf",
+  "description": "Access PragmaticBookshelf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://pragprog.com/titles"
+    ],
+    "launch": {
+      "web_url": "http://pragprog.com/titles"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

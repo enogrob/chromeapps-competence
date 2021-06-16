@@ -1,0 +1,17 @@
+{
+  "name": "FutureLearn",
+  "description": "Access FutureLearn",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.futurelearn.com"
+    ],
+    "launch": {
+      "web_url": "https://www.futurelearn.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

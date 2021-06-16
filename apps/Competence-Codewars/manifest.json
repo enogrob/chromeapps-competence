@@ -1,0 +1,17 @@
+{
+  "name": "Codewars",
+  "description": "Access Codewars",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.codewars.com/?language=ruby"
+    ],
+    "launch": {
+      "web_url":"http://www.codewars.com/?language=ruby"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

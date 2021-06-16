@@ -1,0 +1,17 @@
+{
+  "name": "Manning Bookshelf",
+  "description": "Access Manning Bookshelf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.manning.com/"
+    ],
+    "launch": {
+      "web_url": "https://www.manning.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

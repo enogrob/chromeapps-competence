@@ -1,0 +1,17 @@
+{
+  "name": "O'REILLY Bookshelf",
+  "description": "Access O'REILLY Bookshelf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://shop.oreilly.com"
+    ],
+    "launch": {
+      "web_url": "http://shop.oreilly.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

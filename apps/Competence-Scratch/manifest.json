@@ -1,0 +1,17 @@
+{
+  "name": "Scratch",
+  "description": "Access Scratch",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://scratch.mit.edu/"
+    ],
+    "launch": {
+      "web_url": "https://scratch.mit.edu/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

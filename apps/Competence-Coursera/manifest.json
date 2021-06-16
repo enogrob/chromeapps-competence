@@ -1,0 +1,17 @@
+{
+  "name": "coursera",
+  "description": "Access coursera",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.coursera.org/"
+    ],
+    "launch": {
+      "web_url": "https://www.coursera.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

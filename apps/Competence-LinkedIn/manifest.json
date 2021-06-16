@@ -1,0 +1,17 @@
+{
+  "name": "LinkedIn",
+  "description": "Acess LinkedIn.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.linkedin.com"
+    ],
+    "launch": {
+      "web_url": "https://www.linkedin.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

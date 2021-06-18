@@ -1,0 +1,17 @@
+{
+  "name": "LPIC-1 101",
+  "description": "Access LPIC-1 101",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://learning.lpi.org/en/learning-materials/101-500"
+    ],
+    "launch": {
+      "web_url": "http://learning.lpi.org/en/learning-materials/101-500"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PocketMags",
+  "description": "PocketMags",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "launch": {
+      "web_url": "https://pocketmags.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

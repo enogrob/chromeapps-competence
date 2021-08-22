@@ -1,0 +1,17 @@
+{
+  "name": "Confluence",
+  "description": "Access Confluence",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://enogrob.atlassian.net/wiki/spaces"
+    ],
+    "launch": {
+      "web_url": "https://enogrob.atlassian.net/wiki/spaces"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

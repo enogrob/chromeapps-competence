@@ -1,0 +1,17 @@
+{
+  "name": "MultiCloud",
+  "description": "Access MultiCloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://thecloudbootcamp.com"
+    ],
+    "launch": {
+      "web_url": "https://thecloudbootcamp.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Educative",
+  "description": "Access Educative",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.educative.io"
+    ],
+    "launch": {
+      "web_url": "https://www.educative.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

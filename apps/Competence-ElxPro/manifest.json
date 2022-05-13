@@ -1,0 +1,17 @@
+{
+  "name": "Exercism",
+  "description": "Access Exercism",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://exercism.org"
+    ],
+    "launch": {
+      "web_url": "https://exercism.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
